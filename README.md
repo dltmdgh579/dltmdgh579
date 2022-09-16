@@ -1,3 +1,5 @@
+### 👋 Hi There!
+
 ### Experience
   - 인천대학교 정보통신공학과 (2016.03 ~ 2022.02)
   - 인천대학교 학부 졸업 (2022.02)
@@ -36,7 +38,6 @@
   - [Email](mailto:dltmdgh579@gmail.com)
 
 ---
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmdgh579&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=dltmdgh579&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/dltmdgh579)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
+
