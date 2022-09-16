@@ -4,7 +4,6 @@
 
 ## :blue_book: Experience
   - 인천대학교 정보통신공학과 (2016.03 ~ 2022.02)
-  - 인천대학교 학부 졸업 (2022.02)
   - Samsung Software Academy for youth (2022.01 ~ )
 
 
