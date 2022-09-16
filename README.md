@@ -68,6 +68,6 @@
   - [Email](mailto:dltmdgh579@gmail.com)
 
 ---
-
+###	:1st_place_medal: Solved.ac
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
 
