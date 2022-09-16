@@ -28,14 +28,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 
-### :trophy: Awards
----
-  - (2021) 인천대학교 캡스톤디자인 경진대회 대상
-  - (2021) 인천대학교 실전문제연구단 성과발표회 대상
-  - (2021) X-Corps 페스티벌 장려상
-  - (2021) AI X-Corps 경진대회 최우수상
-
-
 ### :page_with_curl: Project
 ---
   - 스타트업 NFT 소액 투자 플랫폼
@@ -46,28 +38,15 @@
   - AI기반의 가짜뉴스 판별 서비스 (2021 인천대학교 실전문제연구단 성과발표회)
 
 
-### :eyes: Interest
+### :trophy: Awards
 ---
- - Languages
-   - Java
-   - Python
-   - JavaScript
-   
- - Frameworks
-   - Spring
-   - Tensorflow
-   - Node.js
-   
- - Problem Solving
-   - [Baekjoon](https://www.acmicpc.net/user/zzz579)
-  
+  - (2021) 인천대학교 캡스톤디자인 경진대회 대상
+  - (2021) 인천대학교 실전문제연구단 성과발표회 대상
+  - (2021) X-Corps 페스티벌 장려상
+  - (2021) AI X-Corps 경진대회 최우수상
 
-### :mailbox_with_mail: Contacts
----
-  - [Github Repo Issue](https://github.com/dltmdgh579/dltmdgh579/issues)
-  - [Email](mailto:dltmdgh579@gmail.com)
 
----
 ###	:1st_place_medal: Solved.ac
+---
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
 
