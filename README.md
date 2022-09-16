@@ -1,15 +1,13 @@
 ## :wave: Hi There!
 
 
-### :blue_book: Experience
----
+## :blue_book: Experience
   - 인천대학교 정보통신공학과 (2016.03 ~ 2022.02)
   - 인천대학교 학부 졸업 (2022.02)
   - Samsung Software Academy for youth (2022.01 ~ )
 
 
-### :hammer_and_pick: Skills
----
+## :hammer_and_pick: Skills
 **language**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -27,8 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 
-### :page_with_curl: Project
----
+## :page_with_curl: Project
   - 스타트업 NFT 소액 투자 플랫폼
   - 화상채팅 스포츠 응원 웹 서비스
   - 아파트 실거래 및 주변 인프라 정보 제공 웹 서비스
@@ -37,15 +34,13 @@
   - AI기반의 가짜뉴스 판별 서비스 (2021 인천대학교 실전문제연구단 성과발표회)
 
 
-### :trophy: Awards
----
+## :trophy: Awards
   - (2021) 인천대학교 캡스톤디자인 경진대회 대상
   - (2021) 인천대학교 실전문제연구단 성과발표회 대상
   - (2021) X-Corps 페스티벌 장려상
   - (2021) AI X-Corps 경진대회 최우수상
 
 
-###	:1st_place_medal: Solved.ac
----
+##	:1st_place_medal: Solved.ac
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
 
