@@ -4,8 +4,6 @@
 
 ## Cards
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltmdgh579)](https://github.com/dltmdgh579)
-
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=dltmdgh579&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/dltmdgh579)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmdgh579&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
