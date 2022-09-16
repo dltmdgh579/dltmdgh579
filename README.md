@@ -18,6 +18,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=Vue.js&logoColor=black&style=flat-square) ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=Sass&logoColor=white)
 ---
 
 ### :trophy: Awards
