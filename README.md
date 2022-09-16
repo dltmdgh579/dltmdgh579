@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <h2 align="center">:wave: Hi There!</h2>
+ <h3 align="center">:wave: Hi There!</h3>
 </p>
 
 ## :blue_book: Experience
