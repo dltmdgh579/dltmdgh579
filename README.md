@@ -1,5 +1,3 @@
-
-
 <p align="center">
  <h3 align="center">:wave: Hi There!</h3>
 </p>
