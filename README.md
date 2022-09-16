@@ -1,17 +1,8 @@
-# SeungHo Lee (dltmdgh579)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 ## Cards
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=dltmdgh579&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/dltmdgh579)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmdgh579&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dltmdgh579&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=dltmdgh579)](#)
-
-<a href="https://opgc.me/#/users/dltmdgh579" target="_blank"><img src="https://api.opgc.me/githubs/users/dltmdgh579/tag/?theme=basic" /></a>
 
 ## Activity
   - 인천대학교 정보통신공학과 (2016.03 ~ 2022.02)
@@ -19,10 +10,10 @@
   - (2022.01 ~ ) Samsung Software Academy for youth
 
 ## Awards
-    - (2021) 인천대학교 캡스톤디자인 경진대회 대상
-    - (2021) 인천대학교 실전문제연구단 성과발표회 대상
-    - (2021) X-Corps 페스티벌 장려상
-    - (2021) AI X-Corps 경진대회 최우수상
+  - (2021) 인천대학교 캡스톤디자인 경진대회 대상
+  - (2021) 인천대학교 실전문제연구단 성과발표회 대상
+  - (2021) X-Corps 페스티벌 장려상
+  - (2021) AI X-Corps 경진대회 최우수상
     
 ## Project
   - 스타트업 NFT 소액 투자 플랫폼
