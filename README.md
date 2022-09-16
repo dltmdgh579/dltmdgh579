@@ -1,5 +1,8 @@
-## :wave: Hi There!
 
+
+<p align="center">
+ <h2 align="center">:wave: Hi There!</h2>
+</p>
 
 ## :blue_book: Experience
   - 인천대학교 정보통신공학과 (2016.03 ~ 2022.02)
