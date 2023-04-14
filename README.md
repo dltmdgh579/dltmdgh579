@@ -29,12 +29,6 @@
   - AI기반의 가짜뉴스 판별 서비스 (2021 인천대학교 실전문제연구단 성과발표회)
 
 
-## :trophy: Awards
-  - (2021) 인천대학교 산학캡스톤디자인 경진대회 대상
-  - (2021) 인천대학교 실전문제연구단 성과발표회 대상
-  - (2021) X-Corps 페스티벌 장려상
-  - (2021) AI X-Corps 경진대회 최우수상
-
 
 ##	:1st_place_medal: Solved.ac
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzz579)](https://solved.ac/zzz579)
